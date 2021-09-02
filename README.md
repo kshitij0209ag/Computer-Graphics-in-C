@@ -1,6 +1,6 @@
 # Computer-Graphics-in-C
 
-#Line Algorithm
+# Line Algorithm
 1. Write a Program to draw a line using Direct Method.
 2. Write a Program to show DIGITAL DIFFERENTIAL ANALYZER Algorithm.
 3. Write a Program to implement Bresenham's Line Drawing Algorithm.
